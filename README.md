@@ -1,1 +1,1 @@
-# hello-ram
+print("hello ram")
